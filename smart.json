@@ -3,6 +3,6 @@
   "description": "Bootstrap-Modal package for meteor",
   "homepage": "https://github.com/livingyang/meteor-bootstrap-modal",
   "author": "living li",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "git": "https://github.com/livingyang/meteor-bootstrap-modal.git"
 }

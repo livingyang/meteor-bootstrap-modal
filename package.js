@@ -1,9 +1,9 @@
 Package.describe({
-  summary: "Provides bootstrap modal v2.2.2"
+  summary: "Provides bootstrap modal v2.2.3"
 });
 
 Package.on_use(function (api) {
-  api.use('bootstrap-3', 'client');
+  api.use(['jquery', 'bootstrap-3'], 'client');
 
   var path = Npm.require('path');
   var asset_path = path.join('bootstrap-modal');
