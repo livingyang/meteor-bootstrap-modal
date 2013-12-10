@@ -1,8 +1,8 @@
 {
-  "name": "meteor-bootstrap-modal",
+  "name": "bootstrap-modal",
   "description": "Bootstrap-Modal package for meteor",
   "homepage": "https://github.com/livingyang/meteor-bootstrap-modal",
   "author": "living li",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "git": "https://github.com/livingyang/meteor-bootstrap-modal.git"
 }
