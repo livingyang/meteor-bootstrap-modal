@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides bootstrap modal v2.2.1"
+  summary: "Provides bootstrap modal v2.2.2"
 });
 
 Package.on_use(function (api) {
